@@ -1,6 +1,6 @@
 {
   "name": "LVVStreamModpack",
-  "version_number": "1.0.0",
+  "version_number": "1.0.1",
   "website_url": "https://github.com/LordVysh/lvv-stream-modpack/tree/master",
   "description": "Not a mod. A collection of mods for friendos",
   "dependencies": [
